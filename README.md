@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I am Kelly Clark, a resourceful and results-driven
 ## Technologies and Tools
 
 - **Programming Languages:** C++, C#, Python, Java, HTML/CSS, JavaScript
-- **Frameworks and Technologies:** .NET, Node.js, API Development/Integration
+- **Frameworks and Technologies:** React, Next.js, .NET, Node.js, Tailwind CSS, API Development/Integratio
 - **Backend Databases:** PostgreSQL (PgAdmin), MongoDB
 - **Software Testing:** Open API Spec & Swagger, Katalon, Selenium
 - **Version Control:** Git, GitHub
